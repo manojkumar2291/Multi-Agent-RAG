@@ -1,0 +1,2 @@
+﻿# Install the application and offline API test dependencies from pyproject.toml.
+-e .[test]
